@@ -1,0 +1,9 @@
+
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+header { background: #6a4f4b; color: white; padding: 20px; text-align: center; }
+nav { background: #eee; padding: 10px; text-align: center; }
+nav button { margin: 0 10px; padding: 10px; cursor: pointer; }
+section { padding: 20px; }
+.hero { background: url('https://example.com/horse.jpg') center/cover no-repeat; color: white; padding: 100px 20px; text-align: center; }
+.gallery img { width: 100%; max-width: 300px; margin: 10px; }
+footer { background: #333; color: white; text-align: center; padding: 20px; }
